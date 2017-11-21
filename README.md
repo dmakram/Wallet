@@ -59,5 +59,5 @@ Dated table(editable) of entries with its cost.
 - ​
 
 #### Color Scheme/theming
-
+https://designschool.canva.com/blog/100-color-combinations
  ![color-combo-89-tb-768x0](/color-combo-89-tb-768x0.png)
