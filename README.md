@@ -1,6 +1,6 @@
 # Wallet
 
-A great way to keep track of your expenses. 
+A great way to keep track of your expenses.
 
 Find out how much you can save by cutting out minor unnecessary costs, every day.
 
@@ -10,7 +10,9 @@ Find out how much you can save by cutting out minor unnecessary costs, every day
 
 Using a simple interface that is  based on your expenses through out your day. A having a summary of what you spend on each day and through out a month will give you a head start on cutting out the unnecessary costs, and leaving enough of your budget to put into your savings.
 
-Built on: HTML,CSS,JAVASCRIPT...
+Built on: HTML, CSS, JAVASCRIPT...
+
+The Aim is for it to be a smart system that will help make lives easier and help/teach people Financial Literacy, by allowing them to use a system that is inspired "Poor Dad Rich Dad" Book by Robert Kiyosaki.
 
 
 ## Features
@@ -23,7 +25,7 @@ Built on: HTML,CSS,JAVASCRIPT...
 
 - Dated Spent (User Back-end, separate page) Editable Table
 
-   
+
 
 ## Daily Entry table
 
@@ -55,8 +57,12 @@ Dated table(editable) of entries with its cost.
 
 ## Goals and Future Features
 
-- Individual Entry [Daily and Monthly] total costs (on a table). 
+- Individual Entry [Daily and Monthly] total costs (on a table).
 - ​
+
+## Book Inspired features
+
+- 
 
 #### Color Scheme/theming
 https://designschool.canva.com/blog/100-color-combinations

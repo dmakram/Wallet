@@ -1,0 +1,11 @@
+{
+  "name": "npmtemplate",
+  "version": "1.0.0",
+  "description": "NPM template for quick workflow...",
+  "main": "app.js",
+  "scripts": {
+        "compile:sass":"node-sass --watch scss/style.scss css/styles.css"
+  },
+  "author": "Daoud Magdi Makram Saeed",
+  "license": "ISC"
+}
