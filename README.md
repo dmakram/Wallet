@@ -62,7 +62,8 @@ Dated table(editable) of entries with its cost.
 
 ## Book Inspired features
 
-- 
+- Rich Dad Poor Dad
+Book by Robert Kiyosaki and Sharon Lechter
 
 #### Color Scheme/theming
 https://designschool.canva.com/blog/100-color-combinations
