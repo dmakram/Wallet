@@ -10,7 +10,7 @@ Find out how much you can save by cutting out minor unnecessary costs, every day
 
 Using a simple interface that is  based on your expenses through out your day. A having a summary of what you spend on each day and through out a month will give you a head start on cutting out the unnecessary costs, and leaving enough of your budget to put into your savings.
 
-Built on: HTML, CSS, JAVASCRIPT...
+Built on: HTML, CSS, JAVASCRIPT... SvelteKit, Tailwind, and Django Rest Framework.
 
 The Aim is for it to be a smart system that will help make lives easier and help/teach people Financial Literacy, by allowing them to use a system that is inspired "Poor Dad Rich Dad" Book by Robert Kiyosaki.
 
