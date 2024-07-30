@@ -18,7 +18,7 @@ We don't implement a Banking integration due to the security issues that can go 
 
 Using a simple interface that is  based on your expenses throughout your day. A having a summary of what you spend on each day and throughout a month will give you a head start on cutting out the unnecessary costs, and leaving enough of your budget to put into your savings.
 
-Built on: HTML, CSS, JAVASCRIPT...
+Built on: HTML, CSS, JAVASCRIPT... SvelteKit, Tailwind, Django Rest Framework
 
 The Aim is for it to be a smart system that will help make lives easier and help/teach people Financial Literacy, by allowing them to use a system that is inspired "Poor Dad Rich Dad" Book by Robert Kiyosaki.
 
